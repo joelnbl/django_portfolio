@@ -1,4 +1,5 @@
-__pycache__
-*.swp
-*.sqlite
-venv
+# Text backup files
+*.bak
+
+# Database
+*.sqlite3
